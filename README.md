@@ -1,1 +1,0 @@
-# dwp-equipo2-next-mongo
